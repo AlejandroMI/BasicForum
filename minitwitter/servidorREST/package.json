@@ -2,6 +2,6 @@
   "name": "Catalog-API",
   "version": "0.0.1",
   "dependencies": {
-    "restify": "4.0.3"
+    "restify": "8.4.0"
   }
 }
